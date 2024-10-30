@@ -1,0 +1,3 @@
+img[src*="gstatic.com/"], img[src*="googleapis.com/"] {
+max-width: none !important;
+}
